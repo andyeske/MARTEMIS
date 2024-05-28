@@ -25,7 +25,7 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 <a name="1400s"></a>
 ### 1: 1400s Modules
 
-**Description:**
+**Description:** Main lunar habitat module, inspired largely by Sierra Aerospace's [LIFE 1400](https://www.sierraspace.com/commercial-space-stations/life-space-habitat/) design (hence, the name of the module!). 
 
 **CAD Model Name:** 1400.SLDPRT (Main Module), 1400_interior_v1.SLDPRT (Cross sectional view with open walls), 1400_interior_v2.SLDPRT (Cross sectional view with closed walls).
 
@@ -53,7 +53,7 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 <a name="joint"></a>
 ### 2: Module Joints
 
-**Description:**
+**Description:** Joint connector for the 1400s Modules, in the shape of a "+". Each connector can accomodate up to 4 modules (and/or airlocks), although the design can be easily modified to accomodate for an arbitrary number of connections.
 
 **CAD Model Name:** Joint 2.SLDPRT.
 
@@ -69,7 +69,7 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 <a name="airlocks"></a>
 ### 3: Airlocks
 
-**Description:**
+**Description:** Airlock attachments to the 1400s Modules and/or Module Joints. Two airlock variants were designed: one with a staircase leading to the lunar surface, and one with a ramp, to allow for direct connection to the Lunar cruiser vehicle. The main airlock design was inspired largely by that featured in the following [paper](https://ntrs.nasa.gov/api/citations/20210020897/downloads/A%20Multi%20Functional%20Two%20Chamber%20Airlock%20Node%20for%20a%20Common%20Habitat%20Architecture.pdf).
 
 **CAD Model Name:** Airlock.SLDPRT (staircase model) and Airlock_v2.SLDPRT (ramp model).
 
@@ -91,7 +91,7 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 <a name="reactors"></a>
 ### 4: Reactors
 
-**Description:**
+**Description:** Fission Surface Power Reactors, that provide power for the lunar habitat. The reactor design was modeled after the concepts put forth by [NASA](https://www.nasa.gov/tdm/fission-surface-power/) and the [US Department of Energy](https://www.energy.gov/ne/articles/5-things-you-need-know-about-fission-surface-power-systems).
 
 **CAD Model Name:** Reactor Farm.SLDPRT.
 
