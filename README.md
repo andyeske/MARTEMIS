@@ -139,7 +139,7 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 <a name="layout"></a>
 ### 7: Habitat Layout
 
-**Description:** Finally, the final layout of the lunar habitat can be seen below, which integrates all of the individual components described above. The pictured layout consists of 
+**Description:** Finally, the final layout of the lunar habitat can be seen below, which integrates all of the individual components described above. The main layout consists of 17 1400s Modules, 8 Module Joints, 9 Airlocks (6 staircase models, 3 ramp models), and 1 reactor farm. 
 
 **CAD Model Name:** Layout 2.SLDASM.
 
