@@ -95,6 +95,12 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 
 **CAD Model Name:** Reactor Farm.SLDPRT.
 
+<p align="left">
+<img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Reactors.JPG" width="500"> 
+
+**Figure 8:** _Fission Surface Power Reactors_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
@@ -104,6 +110,12 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 **Description:**
 
 **CAD Model Name:** Cruiser.SLDPRT.
+
+<p align="left">
+<img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Cruiser2.JPG" width="500"> 
+
+**Figure 9:** _Lunar Cruiser_.
+</p>
 
 ([ back to top ](#back_to_top))
 
@@ -115,6 +127,12 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 
 **CAD Model Name:** Starship.SLDPRT.
 
+<p align="left">
+<img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Starship.JPG" width="500"> 
+
+**Figure 9:** _SpaceX Starship_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
@@ -124,6 +142,12 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 **Description:**
 
 **CAD Model Name:** Layout 2.SLDASM.
+
+<p align="left">
+<img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/HabitatRender.JPG" width="500"> 
+
+**Figure 10:** _Lunar Habitat (excluding views of the reactor farm and the starship)_.
+</p>
 
 ([ back to top ](#back_to_top))
 
