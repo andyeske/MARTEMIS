@@ -27,7 +27,25 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 
 **Description:**
 
-**CAD Model Name:** 1400.SLDPRT.
+**CAD Model Name:** 1400.SLDPRT (Main Module), 1400_interior_v1.SLDPRT (Cross sectional view with open walls), 1400_interior_v2.SLDPRT (Cross sectional view with closed walls).
+
+<p align="left">
+<img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/1400s.JPG" width="500"> 
+
+**Figure 2:** _Isolated 1400 Module, exterior view_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/1400_Interior.JPG" width="500"> 
+
+**Figure 3:** _1400 Module, interior view (open walls)_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/1400_Interior3.JPG" width="500"> 
+
+**Figure 4:** _1400 Module, interior view (closed walls)_.
+</p>
 
 ([ back to top ](#back_to_top))
 
@@ -39,6 +57,12 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 
 **CAD Model Name:** Joint 2.SLDPRT.
 
+<p align="left">
+<img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Joint.JPG" width="500"> 
+
+**Figure 5:** _Isolated Module Joint_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
@@ -48,6 +72,18 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 **Description:**
 
 **CAD Model Name:** Airlock.SLDPRT (staircase model) and Airlock_v2.SLDPRT (ramp model).
+
+<p align="left">
+<img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Airlocks.JPG" width="500"> 
+
+**Figure 6:** _Airlock (staircase model)_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Ramp.JPG" width="500"> 
+
+**Figure 7:** _Airlock (ramp model, to accomodate for the Lunar cruiser)_.
+</p>
 
 ([ back to top ](#back_to_top))
 
