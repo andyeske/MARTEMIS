@@ -27,7 +27,7 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 
 **Description:** Main lunar habitat module, inspired largely by Sierra Aerospace's [LIFE 1400](https://www.sierraspace.com/commercial-space-stations/life-space-habitat/) design (hence, the name of the module!). 
 
-**CAD Model Name:** 1400.SLDPRT (Main Module), 1400_interior_v1.SLDPRT (Cross sectional view with open walls), 1400_interior_v2.SLDPRT (Cross sectional view with closed walls).
+**CAD Model Name:** 1400.SLDPRT (Main Module), 1400_interior_v1.SLDPRT (Cross sectional view with open walls), 1400_interior_v2.SLDPRT (Cross sectional view with closed walls), 1400_interior_v3.SLDPRT (the model with the furniture and 3 bedrooms).
 
 <p align="left">
 <img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/1400s.JPG" width="500"> 
