@@ -107,7 +107,7 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 <a name="cruiser"></a>
 ### 5: Lunar Cruiser
 
-**Description:**
+**Description:** Lunar cruiser, main vehicle for all-purpose missions on the moon. The vehicle's design replicates [Toyota](https://www.toyota-europe.com/news/2023/lunar-cruiser)'s, which is set to be ready for operation in 2029.
 
 **CAD Model Name:** Cruiser.SLDPRT.
 
@@ -123,7 +123,7 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 <a name="starship"></a>
 ### 6: Starship
 
-**Description:**
+**Description:** Starship, main transit vehicle. As the name implies, the rocket's design was modeled after [SpaceX](https://www.spacex.com/vehicles/starship/)'s starship, which is currently under development and testing. The following [video](https://www.youtube.com/watch?v=fC96-rWTtI8) provides an overview of the vehicle's modeling in Solidworks.
 
 **CAD Model Name:** Starship.SLDPRT.
 
@@ -139,7 +139,7 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 <a name="layout"></a>
 ### 7: Habitat Layout
 
-**Description:**
+**Description:** Finally, the final layout of the lunar habitat can be seen below, which integrates all of the individual components described above. The pictured layout consists of 
 
 **CAD Model Name:** Layout 2.SLDASM.
 
