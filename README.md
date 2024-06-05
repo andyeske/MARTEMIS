@@ -27,7 +27,7 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 
 **Description:** Main lunar habitat module, inspired largely by Sierra Aerospace's [LIFE 1400](https://www.sierraspace.com/commercial-space-stations/life-space-habitat/) design (hence, the name of the module!). 
 
-**CAD Model Name:** 1400.SLDPRT (Main Module), 1400_interior_v1.SLDPRT (Cross sectional view with open walls), 1400_interior_v2.SLDPRT (Cross sectional view with closed walls), 1400_interior_v3.SLDPRT (the model with the furniture and 3 bedrooms, within the 1400_interior.zip file located in the following [folder](https://mitprod-my.sharepoint.com/personal/andyeske_mit_edu/_layouts/15/onedrive.aspx?login_hint=andyeske%40mit%2Eedu&id=%2Fpersonal%2Fandyeske%5Fmit%5Fedu%2FDocuments%2FAndy%20MIT%2FMiscellaneous%2FMARTEMIS&view=0)).
+**CAD Model Name:** 1400.SLDPRT (Main Module), 1400_interior_v1.SLDPRT (Cross sectional view with open walls), 1400_interior_v2.SLDPRT (Cross sectional view with closed walls), 1400_interior_v3.SLDPRT (the model with the furniture and 3 bedrooms, within the 1400_interior.zip file located in the following [folder](https://mitprod-my.sharepoint.com/personal/andyeske_mit_edu/_layouts/15/onedrive.aspx?login_hint=andyeske%40mit%2Eedu&id=%2Fpersonal%2Fandyeske%5Fmit%5Fedu%2FDocuments%2FAndy%20MIT%2FMiscellaneous%2FMARTEMIS&view=0)), and Radiation Shield.SLDASM (1400 module enclosed by a radiation shield made of hexagonal structures, available also in this [folder](https://mitprod-my.sharepoint.com/personal/andyeske_mit_edu/_layouts/15/onedrive.aspx?login_hint=andyeske%40mit%2Eedu&id=%2Fpersonal%2Fandyeske%5Fmit%5Fedu%2FDocuments%2FAndy%20MIT%2FMiscellaneous%2FMARTEMIS&view=0)).
 
 <p align="left">
 <img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/1400s.JPG" width="500"> 
@@ -47,6 +47,12 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 **Figure 4:** _1400 Module, interior view (closed walls)_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Shield5.JPG" width="500"> 
+
+**Figure 5:** _1400 Module cross-section enclosed by the radiation shield_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
@@ -60,7 +66,7 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 <p align="left">
 <img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Joint.JPG" width="500"> 
 
-**Figure 5:** _Isolated Module Joint_.
+**Figure 6:** _Isolated Module Joint_.
 </p>
 
 ([ back to top ](#back_to_top))
@@ -76,13 +82,13 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 <p align="left">
 <img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Airlocks.JPG" width="500"> 
 
-**Figure 6:** _Airlock (staircase model)_.
+**Figure 7:** _Airlock (staircase model)_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Ramp.JPG" width="500"> 
 
-**Figure 7:** _Airlock (ramp model, to accomodate for the Lunar cruiser)_.
+**Figure 8:** _Airlock (ramp model, to accomodate for the Lunar cruiser)_.
 </p>
 
 ([ back to top ](#back_to_top))
@@ -98,7 +104,7 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 <p align="left">
 <img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Reactors.JPG" width="500"> 
 
-**Figure 8:** _Fission Surface Power Reactors_.
+**Figure 9:** _Fission Surface Power Reactors_.
 </p>
 
 ([ back to top ](#back_to_top))
@@ -114,7 +120,7 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 <p align="left">
 <img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Cruiser2.JPG" width="500"> 
 
-**Figure 9:** _Lunar Cruiser_.
+**Figure 10:** _Lunar Cruiser_.
 </p>
 
 ([ back to top ](#back_to_top))
@@ -130,7 +136,7 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 <p align="left">
 <img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Starship.JPG" width="500"> 
 
-**Figure 9:** _SpaceX Starship_.
+**Figure 11:** _SpaceX Starship_.
 </p>
 
 ([ back to top ](#back_to_top))
@@ -146,7 +152,7 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 <p align="left">
 <img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/HabitatRender.JPG" width="500"> 
 
-**Figure 10:** _Lunar Habitat (excluding views of the reactor farm and the starship)_.
+**Figure 12:** _Lunar Habitat (excluding views of the reactor farm and the starship)_.
 </p>
 
 ([ back to top ](#back_to_top))
