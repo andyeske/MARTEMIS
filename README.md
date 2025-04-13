@@ -1,7 +1,7 @@
 <a name="back_to_top"></a>
 # MARTEMIS: _Mars Architecture Research using Taguchi Experiments on the Moon with International Solidarity_
 
-Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks CAD models developed for the report submitted to NASA's [RASC-AL](https://rascal.nianet.org/) competition. Individual CAD models are available in the [CAD Files](https://github.com/andyeske/MARTEMIS/tree/main/CAD%20Files) folder, while the habitat layout assembly can be downloaded from the following [folder](https://mitprod-my.sharepoint.com/personal/andyeske_mit_edu/_layouts/15/onedrive.aspx?login_hint=andyeske%40mit%2Eedu&id=%2Fpersonal%2Fandyeske%5Fmit%5Fedu%2FDocuments%2FAndy%20MIT%2FMiscellaneous%2FMARTEMIS&view=0).
+Welcome to project [MARTEMIS](https://aeroastro.mit.edu/news-impact/team-martemis-wins-best-in-theme-at-nasas-2024-rasc-al-competition/)! In this repository, you'll find all the Solidworks CAD models developed for the report submitted to NASA's [RASC-AL](https://rascal.nianet.org/) competition. Individual CAD models are available in the [CAD Files](https://github.com/andyeske/MARTEMIS/tree/main/CAD%20Files) folder, while the habitat layout assembly can be downloaded from the following [folder](https://mitprod-my.sharepoint.com/personal/andyeske_mit_edu/_layouts/15/onedrive.aspx?login_hint=andyeske%40mit%2Eedu&id=%2Fpersonal%2Fandyeske%5Fmit%5Fedu%2FDocuments%2FAndy%20MIT%2FMiscellaneous%2FMARTEMIS&view=0). Our full report can be found [here](https://iris.uniroma1.it/handle/11573/1723500).
 
 <p align="left">
 <img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Main%20Layout.JPG" width="500"> 
