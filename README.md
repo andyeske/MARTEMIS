@@ -153,19 +153,19 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 <p align="left">
 <img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Super%20Heavy%202.png" width="500"> 
 
-**Figure 11:** _SpaceX Super Heavy_.
+**Figure 12:** _SpaceX Super Heavy_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Super%20Heavy%203.png" width="500"> 
 
-**Figure 11:** _SpaceX Super Heavy coupled with Starship_.
+**Figure 13:** _SpaceX Super Heavy coupled with Starship_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Super%20Heavy%201.png" width="500"> 
 
-**Figure 11:** _SpaceX Super Heavy uncoupled from Starship_.
+**Figure 14:** _SpaceX Super Heavy uncoupled from Starship_.
 </p>
 
 ([ back to top ](#back_to_top))
@@ -181,7 +181,7 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 <p align="left">
 <img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/HabitatRender.JPG" width="500"> 
 
-**Figure 12:** _Lunar Habitat (excluding views of the reactor farm and the starship)_.
+**Figure 15:** _Lunar Habitat (excluding views of the reactor farm and the starship)_.
 </p>
 
 ([ back to top ](#back_to_top))
