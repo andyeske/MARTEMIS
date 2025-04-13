@@ -19,7 +19,8 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 4. [ Reactors ](#reactors)
 5. [ Lunar Cruiser ](#cruiser)
 6. [ Starship ](#starship)
-7. [ Habitat Layout ](#layout)
+7. [ Super Heavy ](#super)
+8. [ Habitat Layout ](#layout)
 
 ---
 <a name="1400s"></a>
@@ -142,8 +143,36 @@ Welcome to project MARTEMIS! In this repository, you'll find all the Solidworks 
 ([ back to top ](#back_to_top))
 
 ---
+<a name="super"></a>
+### 7: Super Heavy
+
+**Description:** Super Heavy, the booster (first stage) of the Starship (second stage). The following [video](https://www.youtube.com/watch?v=JuCjS7KNCOg&lc=UgzChAn3WmuWQODRsjx4AaABAg) provides an overview of the Super Heavy's modeling in Solidworks.
+
+**CAD Model Name:** Super Heavy.SLDPRT (individual booster), and Starship Super Heavy Assembly.SLDASM (combined rocket assembly).
+
+<p align="left">
+<img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Super%20Heavy%202.png" width="500"> 
+
+**Figure 11:** _SpaceX Super Heavy_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Super%20Heavy%203.png" width="500"> 
+
+**Figure 11:** _SpaceX Super Heavy coupled with Starship_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/MARTEMIS/blob/main/Renders/Super%20Heavy%201.png" width="500"> 
+
+**Figure 11:** _SpaceX Super Heavy uncoupled from Starship_.
+</p>
+
+([ back to top ](#back_to_top))
+
+---
 <a name="layout"></a>
-### 7: Habitat Layout
+### 8: Habitat Layout
 
 **Description:** Finally, the final layout of the lunar habitat can be seen below, which integrates all of the individual components described above. The main layout consists of 17 1400s Modules, 8 Module Joints, 9 Airlocks (6 staircase models, 3 ramp models), and 1 reactor farm. 
 
